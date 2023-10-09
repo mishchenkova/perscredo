@@ -1,7 +1,7 @@
 ---
 name: Personal Credo
 about: My 'STL Goal 5.0 2024' project
-title: Tactics
+title: 'Mentality - '
 labels: ''
 assignees: ''
 
