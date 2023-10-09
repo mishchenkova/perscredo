@@ -1,15 +1,15 @@
 ---
 name: Personal Credo
 about: My 'STL Goal 5.0 2024' project
-title: "[GROWTH MIND]"
+title: Tactics
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
+**As a** Club Tennis Player 
  **I need** [function]  
- **So that** [benefit]  
+ **So that** I can strengthen my moral character 
    
  ### Details and Assumptions
  * [document what you know]
