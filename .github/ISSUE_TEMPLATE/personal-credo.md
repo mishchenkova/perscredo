@@ -8,8 +8,8 @@ assignees: 'mishchenkova'
 ---
 
 **As a** Club Tennis Player 
- **I need** [function]  
- **So that** I can strengthen my moral character 
+**I need** [function]  
+**So that** I can strengthen my moral character 
    
  ### Details and Assumptions
  * [document what you know]
