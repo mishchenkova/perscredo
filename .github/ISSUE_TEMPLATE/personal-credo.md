@@ -1,9 +1,9 @@
 ---
 name: Personal Credo
 about: My 'Nerve & Volleys Goal 5.0 2025' project
-title: 'Mentality - '
-labels: ''
-assignees: ''
+title: 'Mentality'
+labels: 'EQ'
+assignees: 'mishchenkova'
 
 ---
 
