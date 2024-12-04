@@ -1,2 +1,2 @@
 # perscredo
-The repository contains the lab for agile planning - 'Nerve & Volleys - Goal 5.0 2024' project
+This repository is a part of an ongoing project that helps building Personal Credo using agile planning - occupational and personal.
