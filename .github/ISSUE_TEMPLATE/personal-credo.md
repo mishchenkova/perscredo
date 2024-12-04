@@ -1,6 +1,6 @@
 ---
 name: Personal Credo
-about: My 'STL Goal 5.0 2024' project
+about: My 'Nerve & Volleys Goal 5.0 2025' project
 title: 'Mentality - '
 labels: ''
 assignees: ''
